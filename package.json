@@ -1,5 +1,6 @@
 {
   "name": "react-cards",
+  "homepage":"https://kashf.gitlab.io/assessment---react-cards/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
