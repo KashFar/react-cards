@@ -41,7 +41,7 @@ const Card = (props) => (
 const App = () => (
     <CardGroup> 
         <Card price = "Free!" description= "Trial" icon = "fa-thumbs-o-up"/>    
-        <Card price = "$10.00!" description= "Basic tier" icon = "fa-trophy-o-up" hint= "(most popular)"/>    
+        <Card price = "$10.00!" description= "Basic tier" icon = "fa-trophy" hint= "(most popular)"/>    
         <Card price = "$6,000.00!" description= "Advanced tier" icon = "fa-bolt" hint= "(only for enterprise-level professionals)" />    
     </CardGroup>
 );
